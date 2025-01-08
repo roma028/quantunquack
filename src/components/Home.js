@@ -139,7 +139,7 @@ export default function Home() {
             src: '/discord.png',
             alt: 'Discord',
             text: 'Discord',
-            href: 'https://discord.gg/khb36F3j',
+            href: 'https://discord.gg/kkqpmHRJXt',
             glow: 'rgba(0, 110, 255, 0.6)',
           },
           {
